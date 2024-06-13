@@ -1,0 +1,6 @@
+projectKey=login_project
+serverUrl=http://localhost:9000
+serverVersion=10.5.1.90531
+dashboardUrl=http://localhost:9000/dashboard?id=login_project
+ceTaskId=7154ceb1-aad2-48e2-baab-5b5c4825b203
+ceTaskUrl=http://localhost:9000/api/ce/task?id=7154ceb1-aad2-48e2-baab-5b5c4825b203
